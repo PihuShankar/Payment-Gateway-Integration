@@ -1,6 +1,6 @@
 # Payment-Gateway-Integration
 Sparks Foundation, Web Development Task-3
-https://pihushankar.github.io/Payment-Gateway-Integration/donate.html
+https://pihushankar.github.io/Payment-Gateway-Integration/index.html
 
 Homepage
 <img width="960" alt="2022-03-21 (1)" src="https://user-images.githubusercontent.com/96809991/159246604-7f721d70-9783-4c74-9999-8c0196cba226.png">
